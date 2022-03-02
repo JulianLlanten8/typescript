@@ -1,0 +1,14 @@
+body{
+  background-color: #181123;
+}
+h1{
+  color: blue;
+  text-align: center;
+  font-family: monospace;
+}
+.parrafoPrincipal{
+  color: azure;
+  margin: 5% 30% 5% 30%;
+  font-size: 20px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
